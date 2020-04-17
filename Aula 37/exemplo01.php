@@ -16,8 +16,7 @@
 
 
     //Hora:Minutos:Segundos
-    echo date("d/m/Y H:i:s",-1001587056248);
-    echo '</br>';
+    
 
     
     
