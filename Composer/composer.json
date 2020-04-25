@@ -1,0 +1,15 @@
+{
+    "name": "dgomendes/composer",
+    "description": "Aula de PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Diego Mendes",
+            "email": "dgo.mendes20@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
